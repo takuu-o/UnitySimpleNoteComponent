@@ -1,7 +1,7 @@
 {
   "name": "com.taklabs.simplenote",
   "displayName": "Simple Note Component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2022.3",
   "description": "GameObjectにメモ欄を追加するSimple Noteコンポーネントを追加するパッケージ",
   "author": {
