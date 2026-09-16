@@ -3,7 +3,7 @@
   "displayName": "Simple Note Component",
   "version": "0.1.0",
   "unity": "2022.3",
-  "description": "GameObjectにメモ欄を追加するComponents",
+  "description": "GameObjectにメモ欄を追加するSimple Noteコンポーネントを追加するパッケージ",
   "author": {
     "name": "Takuu-O",
     "email": "oozoratakuu@gmail.com",
